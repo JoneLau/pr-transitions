@@ -2,6 +2,8 @@
 
 在 3.5 上复刻了几种网上提供的 pr 转场实现，低版本可直接把文件拷贝过去使用（不要拷贝文件的 meta 文件）。所有 shader 都只能在 2D 上使用。
 
+https://github.com/JoneLau/pr-transitions/blob/master/transitions.mp4
+
 ## 使用方式
 
 ### 针对单张图片
